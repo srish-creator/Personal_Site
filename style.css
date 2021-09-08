@@ -1,0 +1,102 @@
+body{
+   margin: 0;
+  background-color: floralwhite;
+  text-align: center;
+  
+  
+}
+h1{
+    font-size: 5rem;  
+    font-family:'WindSong';
+}
+
+h2{
+        font-size: 2.5em;
+        font-family: 'Merriweather';
+ }
+p{
+    font-size:1em;
+}
+.pro{
+    font-size: medium;
+    color: coral;
+    font-size: 2.5rem;
+    }
+  
+.top-container{
+   
+    background-color:#CCF2F4;
+    border: solid;
+    border-width: 187.5%;
+
+    padding: 60px;
+
+  position: relative;
+}
+
+
+
+.topcloud{
+    position: absolute;
+   right:300px;
+   top:50px;
+}
+.bottomcloud
+{
+position: absolute;
+ top:300px;
+   left:150px;
+}
+p{
+    font-family: 'Merriweather';
+}
+
+img{
+    
+    position:relative;
+ 
+}
+
+.manager{
+    
+    height:150px;
+    width: 150px;
+    border-radius: 10px;
+    position:relative;
+   padding: 10px;
+ margin-top: 30px;
+ background-color: black;
+}
+.skill-row{
+height: auto;
+width: auto;
+}
+
+hr{
+    
+    border-width: 4px;
+}
+.skill2{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: black;
+}
+h3{
+    font-family: 'Merriweather';
+    font-size: 1.5em;
+}
+.skill3{
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: black;
+}
+.contact-me,.bottom-container{
+    margin-top: 50px;
+}
+.social{
+    height:50px ;
+    width: 50px;
+}
